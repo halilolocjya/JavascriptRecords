@@ -20,7 +20,7 @@ function Person(name, age, sex) {
     this.sayName = sayName
 }
 
-//构造函数
+//构造函数1
 var person = new Person('构造函数', 20, 'female');
 person.sayName();
 
